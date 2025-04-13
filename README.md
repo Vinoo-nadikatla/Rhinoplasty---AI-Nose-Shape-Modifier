@@ -43,7 +43,7 @@ This project allows users to visualize different nose shapes on their uploaded p
 - Install dependencies:
 
 ```bash
-pip install opencv-python mediapipe streamlit numpy```
+pip install opencv-python mediapipe streamlit numpy
 
 **Project Structure**
 ├── app.py                # Streamlit app (UI)
